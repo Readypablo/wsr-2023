@@ -38,6 +38,23 @@
 
 <div class="section-info-red">
 
+<div class="txt-info-red">
+<p> <span> Инновационный сервис <br> Бронирования</span></p>
+
+<ul>
+<li>Полная конфидециальность данных</li>
+<li>Бронирование машин на будущие даты</li>
+<li>Подбор машины в соответствие с  препочтениями</li>
+</ul>
+
+
+</div>
+
+<div class="img-info-red">
+    <img src="../img/porshe.png" alt="">
+</div>
+
+
 
 </div>
 

@@ -26,14 +26,14 @@
     
     .header-block {
         display: flex;
-        width: 32%;
+        width: 35%;
         vertical-align: middle;
     }
     
     .header-block:nth-child(2) {
         justify-content: center;
         margin-left: 60px;
-        width: 50%;
+        width: 100%;
     }
     
     .link-header {
@@ -68,5 +68,49 @@
         flex-direction: column;
         justify-content: center;
         width: 100%;
+        margin-top: -250px;
         height: 1000px;
+    }
+    
+    .section-info-red {
+        display: flex;
+        justify-content: center;
+        width: 70%;
+        height: 400px;
+        background-color: #ec3e24;
+        padding: 10px 15% 10px 15%;
+    }
+    
+    .txt-info-red {
+        width: 60%;
+        text-align: right;
+        padding: 15px;
+        color: white;
+    }
+    
+    .txt-info-red>p>span {
+        color: white;
+        font-size: 34px;
+        font-weight: 700;
+        line-height: 1.2;
+        letter-spacing: 5px;
+    }
+    
+    .txt-info-red>p:nth-child(2) {
+        color: white;
+        text-align: left;
+    }
+    
+    .img-info-red {
+        padding-top: 50px;
+        width: 40%;
+    }
+    
+    ul {
+        direction: rtl;
+        float: right;
+    }
+    
+    li {
+        padding: 10px;
     }
