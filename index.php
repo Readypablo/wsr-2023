@@ -11,12 +11,37 @@
     
 <header>
 
+<div class="header-block">
+<img src="../img/logo.svg" alt="">
+<a href="#" class="link-header"><p> <span>Индекс Драйв</span> </p></a>
+</div>
+
+<div class="header-block">
+    
+<a href="#" class="link-header"><p> Акции </p></a>
+<a href="#" class="link-header"><p> Бронирование </p></a>
+<a href="#" class="link-header"><p> Личный кабинет </p></a>
+
+</div>
+
+<div class="header-block">
+
+<p> 8 (800) 111-11-11 </p>
+
+</div>
 </header>
 
 
 
 
 <main>
+
+<div class="section-info-red">
+
+
+</div>
+
+
 
 </main>
 
