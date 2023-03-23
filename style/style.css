@@ -114,3 +114,10 @@
     li {
         padding: 10px;
     }
+    
+    .section-search {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+    }
