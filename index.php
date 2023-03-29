@@ -18,9 +18,9 @@
 
 <div class="header-block">
     
-<a href="#" class="link-header"><p> Акции </p></a>
-<a href="#" class="link-header"><p> Бронирование </p></a>
-<a href="#" class="link-header"><p> Личный кабинет </p></a>
+<a href="pagers/branches.php" class="link-header"><p> Акции </p></a>
+<a href="pagers/booking.php" class="link-header"><p> Бронирование </p></a>
+<a href="pagers/registration.php" class="link-header"><p> Личный кабинет </p></a>
 
 </div>
 
