@@ -557,3 +557,26 @@
     .btn-cards:hover {
         box-shadow: 0px 0px 20px 0px #ec3f2473;
     }
+    /* branches.php */
+    /* картинка увеличивается в блоке */
+    
+    .block-maps {
+        margin-top: 100px;
+        height: 400px;
+        overflow: hidden;
+        display: inline-block;
+        /* Строчно-блочный элемент */
+    }
+    
+    .img-maps {
+        position: relative;
+        top: -100px;
+        transition: 0.8s;
+        /* Время эффекта */
+        display: block;
+    }
+    
+    .img-maps:hover {
+        transform: scale(1.2);
+    }
+    /* картинка увеличивается в блоке */

@@ -10,6 +10,20 @@
 <body>
     <?php include ('header.php');?>
 
+
+<main>
+
+<div class="block-maps"><img src="../img/maps.png"  class="img-maps"></div>
+
+<div class="block-maps"><img src="../img/piter.png"  class="img-maps"></div>
+
+<div class="block-maps"><img src="../img/Kras.png"  class="img-maps"></div>
+
+</main>
+
+
+
+
     <?php include('footer.php');?>
 </body>
 </html>
