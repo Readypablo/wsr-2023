@@ -13,8 +13,8 @@
 
 <main>
 
-<fieldset>
-    <legend>Данные о Авто</legend>
+<fieldset class="fieldset-booking">
+    <legend class="legend-booking">Данные о Авто</legend>
     <input type="text"  class="inp-booking" placeholder="Идентификатор машины">
     <input type="text"  class="inp-booking" placeholder="Марка авто">
     <input type="text"  class="inp-booking" placeholder="Название авто">
@@ -26,8 +26,8 @@
 
   </fieldset>
 
-  <fieldset>
-    <legend>Данные о Клиенте</legend>
+  <fieldset class="fieldset-booking">
+    <legend class="legend-booking">Данные о Клиенте</legend>
     <input type="text"  class="inp-booking" placeholder="Имя">
     <input type="text"  class="inp-booking" placeholder="Фамилия">
     <input type="text"  class="inp-booking" placeholder="Отчество">
