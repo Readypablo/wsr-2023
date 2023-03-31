@@ -37,6 +37,7 @@
 <div class="interval">
 
 </div>
+
 <div class="section-info-red">
     <div class="txt-info-red">
         <p> <span> Инновационный сервис <br> Бронирования</span></p>
@@ -88,7 +89,7 @@
 <!-- 1 -->
 <div class="news-block">
         <div class="img-news">
-        <img src="../img/news1.jpg" alt=""  height="500px">
+        <img src="../img/news1.jpg" alt="" class="img-news-foto" >
         </div>
 
         <div class="txt-news">
@@ -114,7 +115,7 @@
                 <input type="button" value="смотреть новость" class="btn-news">
             </div>
             <div class="img-news">
-            <img src="../img/news2.jpg" alt=""  height="500px">
+            <img src="../img/news2.jpg" alt="" class="img-news-foto">
             </div>
 </div>
 
@@ -125,7 +126,7 @@
 <!-- 3 -->
 <div class="news-block">
         <div class="img-news">
-        <img src="../img/news3.jpg" alt=""  height="500px">
+        <img src="../img/news3.jpg" alt=""  class="img-news-foto">
         </div>
 
         <div class="txt-news">
@@ -149,7 +150,7 @@
                 <input type="button" value="смотреть новость" class="btn-news">
             </div>
             <div class="img-news">
-            <img src="../img/news4.jpg" alt=""  height="500px">
+            <img src="../img/news4.jpg" alt=""  class="img-news-foto">
             </div>
 </div>
 

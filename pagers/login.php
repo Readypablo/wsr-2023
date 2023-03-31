@@ -18,8 +18,7 @@
 
 <input type="text" class="login-inp" placeholder="Телефон">
 <input type="password" class="login-inp" placeholder="Пароль">
-<a href="#"></a>
-<input type="button" value="Войти" class="login-btn"></a>
+<a href="profile.php"><input type="button" value="Войти" class="login-btn"></a>
  <p> Впервые у нас?<a href="registration.php"> Зарегистрируйтесь! </a></p> 
 </div>
 
