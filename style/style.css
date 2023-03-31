@@ -751,21 +751,36 @@
             margin-top: 10px;
         }
         .img-news {
-            height: 200px;
-            width: 200px;
+            height:200px;
+            width: 380px;
         }
         .img-news-foto {
             width: 380px;
             height: 200px;
         }
         .news-block {
-            width: 98%;
+            width: 380px;
             display: block;
             justify-content: center;
         }
+
+        .btn-news {
+            width: 240px;
+            background: #ec3e24;
+            color: white;
+            height: 35px;
+            cursor: pointer;
+            font-size: 18px;
+            padding: 5px;
+            margin-left: 20px;
+            letter-spacing: 2px;
+            border: none;
+            border-radius: 10px;
+            transition: all 0.5s ease;
+        }
         .txt-news {
-            padding: 5px 15px 5px 20px;
-            width: 85%;
+            padding: 5px 0px 5px 5px;
+            width: 375px;
             font-size: 12px;
             height: auto;
             color: white;
